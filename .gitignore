@@ -1,0 +1,19 @@
+# Laravel
+/vendor
+/node_modules
+.env
+/public/storage
+/storage/*.key
+/storage/oauth-private.key
+/storage/oauth-public.key
+
+docker/mysql/data
+docker/mysql/logs
+docker/mysql/conf.d/mysql.cnf
+
+.DS_Store
+
+.vscode
+
+Thumbs.db
+.idea/
